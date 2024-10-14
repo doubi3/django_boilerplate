@@ -1,1 +1,1 @@
-My Django boilerplate that includes django_tailwind for styling.
+My Django boilerplate includes django_tailwind for styling and django_tenants.
